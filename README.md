@@ -185,8 +185,8 @@ if you have worked as non-root (which is more nice)
 
     sudo rpm -Uvh https://yum.puppetlabs.com/puppetlabs-release-pc1-el-7.noarch.rpm
     sudo yum install -y puppet-agent
-    sudo puppet module install garethr-docker
-    sudo puppet apply -e 'include docker'
+    sudo /opt/puppetlabs/bin/puppet module install garethr-docker
+    sudo /opt/puppetlabs/bin/puppet apply -e 'include docker'
 
 
 ## Retrospec

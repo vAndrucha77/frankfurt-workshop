@@ -1,0 +1,26 @@
+{
+  "name": "tuxmea/frankfurt-workshop",
+  "version": "1.0.0",
+  "author": "frankfurt workshop",
+  "summary": "code for puppet testing workshop",
+  "license": "Apache-2.0",
+  "source": "https://github.com/tuxmea/frankfurt-workshop",
+  "project_page": "https://github.com/tuxmea/frankfurt-workshop",
+  "issues_url": "https://github.com/tuxmea/frankfurt-workshop/issues",
+  "tags": ["worksop", "frankfurt", "puppet testing"],
+  "operatingsystem_support": [
+    {
+      "operatingsystem":"CentOS",
+      "operatingsystemrelease":[ "7" ]
+    },
+    {
+      "operatingsystem":"Ubuntu",
+      "operatingsystemrelease":[ "16" ]
+    },
+    {
+      "operatingsystem":"LinuxMint",
+      "operatingsystemrelease":[ "18" ]
+    }
+  ],
+  "dependencies": []
+}

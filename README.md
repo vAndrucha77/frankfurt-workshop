@@ -1,5 +1,7 @@
 # Puppet Testing Workshop
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/ff2e009a-3f51-4fb7-8f01-363e1f1246c4.svg?orgId=358302604202)](https://app.soluble.cloud/repos/details/github.com/vandrucha77/frankfurt-workshop?orgId=358302604202)  
+
 Frankfurt/Main - 17.05.2017
 
 ## System preparation
